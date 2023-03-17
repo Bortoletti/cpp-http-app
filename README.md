@@ -1,7 +1,7 @@
 # cpp-http-app
 Application to call a http from C++
 
-#libs
+# libs to install
 
 sudo apt-get install libcurl4
 
